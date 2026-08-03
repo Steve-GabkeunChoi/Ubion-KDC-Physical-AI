@@ -59,18 +59,18 @@ Physical AI는 AI 모델 하나로 완성되지 않습니다. 센서, 메시지,
 
 ### 강의 파일
 
-| 강의 | 슬라이드 파일 | 교재 기준 스크립트 | 출처 파일 |
-|---:|---|---|---|
-| 1 | `01_Physical_AI_Pipeline_v18_delivery.pptx` | `01_Physical_AI_Pipeline_v18_script_30min_expanded.csv` | `01_Physical_AI_Pipeline_v18_sources.csv` |
-| 2 | `02_ROS2_System_Architecture_v3_delivery.pptx` | `02_ROS2_System_Architecture_v3_script_40min_expanded.csv` | `02_ROS2_System_Architecture_v3_sources.csv` |
-| 3 | `03_Isaac_Sim_Overview_v1_delivery.pptx` | `03_Isaac_Sim_Overview_v1_script_capcut_adjusted.csv` | `03_Isaac_Sim_Overview_v1_sources.csv` |
-| 4 | `04_RGBD_3D_Vision_v1_delivery.pptx` | `04_RGBD_3D_Vision_v1_script_capcut_adjusted.csv` | `04_RGBD_3D_Vision_v1_sources.csv` |
-| 5 | `05_Digital_Twin_Understanding_v1_delivery.pptx` | `05_Digital_Twin_Understanding_v1_script_capcut_adjusted_v2.csv` | `05_Digital_Twin_Understanding_v1_sources.csv` |
-| 6 | `06_Sim_to_Real_Concept_v1_delivery.pptx` | `06_Sim_to_Real_Concept_v1_script.csv` | `06_Sim_to_Real_Concept_v1_sources.csv` |
-| 7 | `07_Robot_Foundation_Model_v1_delivery.pptx` | `07_Robot_Foundation_Model_v1_script.csv` | `07_Robot_Foundation_Model_v1_sources.csv` |
-| 8 | `08_Humanoid_Reinforcement_Learning_v1_delivery.pptx` | `08_Humanoid_Reinforcement_Learning_v1_script.csv` | `08_Humanoid_Reinforcement_Learning_v1_sources.csv` |
-| 9 | `09_Robot_Coordinates_Kinematics_v1_delivery.pptx` | `09_Robot_Coordinates_Kinematics_v1_script.csv` | `09_Robot_Coordinates_Kinematics_v1_sources.csv` |
-| 10 | `10_Physical_AI_Capstone_Preview_v1_delivery.pptx` | `10_Physical_AI_Capstone_Preview_v1_script.csv` | `10_Physical_AI_Capstone_Preview_v1_sources.csv` |
+| 강의 | 슬라이드 파일 |
+|---:|---|
+| 1 | `01_Physical_AI_Pipeline_v18_delivery.pptx` | 
+| 2 | `02_ROS2_System_Architecture_v3_delivery.pptx` |
+| 3 | `03_Isaac_Sim_Overview_v1_delivery.pptx` | 
+| 4 | `04_RGBD_3D_Vision_v1_delivery.pptx` | 
+| 5 | `05_Digital_Twin_Understanding_v1_delivery.pptx` | 
+| 6 | `06_Sim_to_Real_Concept_v1_delivery.pptx` | 
+| 7 | `07_Robot_Foundation_Model_v1_delivery.pptx` | 
+| 8 | `08_Humanoid_Reinforcement_Learning_v1_delivery.pptx` | 
+| 9 | `09_Robot_Coordinates_Kinematics_v1_delivery.pptx` | 
+| 10 | `10_Physical_AI_Capstone_Preview_v1_delivery.pptx` | 
 
 ### 권장 GitHub 저장소 구조
 
