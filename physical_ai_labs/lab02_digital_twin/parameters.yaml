@@ -1,0 +1,10 @@
+initial:
+  friction: 0.60
+  latency_s: 0.00
+search:
+  friction_min: 0.50
+  friction_max: 0.95
+  friction_step: 0.01
+  latency_min_s: 0.00
+  latency_max_s: 0.60
+  latency_step_s: 0.05

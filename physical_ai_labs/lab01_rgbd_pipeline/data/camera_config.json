@@ -1,0 +1,12 @@
+{
+  "width": 80,
+  "height": 60,
+  "fx": 72.0,
+  "fy": 72.0,
+  "cx": 39.5,
+  "cy": 29.5,
+  "depth_unit": "meter",
+  "valid_min_m": 0.2,
+  "valid_max_m": 5.0,
+  "point_stride": 2
+}

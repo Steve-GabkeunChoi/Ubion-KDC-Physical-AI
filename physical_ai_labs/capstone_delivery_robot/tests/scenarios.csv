@@ -1,0 +1,5 @@
+scenario,start_x,start_y,goal_x,goal_y,obstacle_x,obstacle_y,obstacle_radius,sensor_dropout,extra_latency_s
+normal,0.0,0.0,4.0,2.0,2.0,0.8,0.35,0,0.0
+obstacle_near_path,0.0,0.0,4.0,2.0,2.1,1.1,0.55,0,0.0
+high_latency,0.0,0.0,4.0,2.0,2.0,0.8,0.35,0,0.5
+sensor_dropout,0.0,0.0,4.0,2.0,2.0,0.8,0.35,1,0.0
