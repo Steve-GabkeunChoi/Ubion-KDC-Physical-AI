@@ -8,16 +8,16 @@
 
 ## 목차
 
-- [1강. Physical AI Pipeline 이해](#1강-physical-ai-pipeline-이해)
-- [2강. ROS 2가 무엇인가?](#2강-ros-2가-무엇인가)
-- [3강. Isaac Sim 맛보기](#3강-isaac-sim-맛보기)
-- [4강. RGB-D와 3D Vision](#4강-rgb-d와-3d-vision)
-- [5강. Digital Twin 이해](#5강-digital-twin-이해)
-- [6강. Sim-to-Real 개념](#6강-sim-to-real-개념)
-- [7강. Robot Foundation Model](#7강-robot-foundation-model)
-- [8강. 휴머노이드와 강화학습](#8강-휴머노이드와-강화학습)
-- [9강. 로봇 좌표계와 기구학](#9강-로봇-좌표계와-기구학)
-- [10강. Physical AI 캡스톤 미리보기](#10강-physical-ai-캡스톤-미리보기)
+- [1강. Physical AI Pipeline 이해](#1강.pdf)
+- [2강. ROS 2가 무엇인가?](#2강.pdf)
+- [3강. Isaac Sim 맛보기](#3강.pdf)
+- [4강. RGB-D와 3D Vision](#4강.pdf)
+- [5강. Digital Twin 이해](#5강.pdf)
+- [6강. Sim-to-Real 개념](#6강.pdf)
+- [7강. Robot Foundation Model](#7강.pdf)
+- [8강. 휴머노이드와 강화학습](#8강.pdf)
+- [9강. 로봇 좌표계와 기구학](#9강.pdf)
+- [10강. Physical AI 캡스톤 미리보기](#10강.pdf)
 - [실습 안내](#실습-안내)
 - [캡스톤 프로젝트 안내](#캡스톤-프로젝트-안내)
 - [과제 제출 및 평가 안내](#과제-제출-및-평가-안내)
@@ -61,16 +61,16 @@ Physical AI는 AI 모델 하나로 완성되지 않습니다. 센서, 메시지,
 
 | 강의 | 슬라이드 파일 |
 |---:|---|
-| 1 | `01_Physical_AI_Pipeline_v18_delivery.pptx` | 
-| 2 | `02_ROS2_System_Architecture_v3_delivery.pptx` |
-| 3 | `03_Isaac_Sim_Overview_v1_delivery.pptx` | 
-| 4 | `04_RGBD_3D_Vision_v1_delivery.pptx` | 
-| 5 | `05_Digital_Twin_Understanding_v1_delivery.pptx` | 
-| 6 | `06_Sim_to_Real_Concept_v1_delivery.pptx` | 
-| 7 | `07_Robot_Foundation_Model_v1_delivery.pptx` | 
-| 8 | `08_Humanoid_Reinforcement_Learning_v1_delivery.pptx` | 
-| 9 | `09_Robot_Coordinates_Kinematics_v1_delivery.pptx` | 
-| 10 | `10_Physical_AI_Capstone_Preview_v1_delivery.pptx` | 
+| 1 | `1강.pdf` | 
+| 2 | `2강.pdf` |
+| 3 | `3강.pdf` | 
+| 4 | `4강.pdf` | 
+| 5 | `5강.pdf` | 
+| 6 | `6강.pdf` | 
+| 7 | `7강.pdf` | 
+| 8 | `8강.pdf` | 
+| 9 | `9강.pdf` | 
+| 10 | `10강.pdf` | 
 
 ### 권장 GitHub 저장소 구조
 
